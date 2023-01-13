@@ -34,7 +34,7 @@ public class FarhadsClass {
 		
 		String result = "";
 		
-		char[] strArr = str.charArray();
+		char[] strArr = str.toCharArray();
 		
 		for (int i = strArr.length - 1; i >= 0; i--) {
 			
