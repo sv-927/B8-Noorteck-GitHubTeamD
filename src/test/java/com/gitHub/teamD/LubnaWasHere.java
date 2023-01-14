@@ -8,5 +8,8 @@ public class LubnaWasHere {
 		
 		System.out.println(a.toUpperCase());
 	}
+	public void toUpperCase{
+		
+	}
 
 }
