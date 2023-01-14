@@ -38,6 +38,8 @@ public class SandeepsClass extends LubnaWasHere {
 		return a + b;
 	
 	
+	
+	
 	}
 	public static boolean isPrime(int n) {
 	    if (n <= 1) {
