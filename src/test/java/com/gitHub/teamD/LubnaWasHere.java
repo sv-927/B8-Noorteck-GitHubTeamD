@@ -11,5 +11,10 @@ public class LubnaWasHere extends FarhadsClass {
 	public void toUpperCase() {
 		
 	}
+	
+	private String toLowerCase(String str) {
+		
+		return str.toLowerCase();
+	}
 
 }
