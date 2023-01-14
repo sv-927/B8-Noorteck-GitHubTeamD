@@ -36,6 +36,8 @@ public class SandeepsClass {
 	static double priceTotal(double a, double b) {
 
 		return a + b;
+	
+	
 	}
 
 }
