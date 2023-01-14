@@ -44,4 +44,6 @@ public class FarhadsClass {
 		return result;
 	
 	}
+	System.out.println("this is your friend");
+}
 }
