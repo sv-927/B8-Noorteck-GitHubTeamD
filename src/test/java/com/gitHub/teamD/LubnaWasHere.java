@@ -1,6 +1,6 @@
 package com.gitHub.teamD;
 
-public class LubnaWasHere {
+public class LubnaWasHere extends FarhadsClass {
 	
 	public static void main(String[] args) {
 		
