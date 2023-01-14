@@ -9,6 +9,10 @@ public class FarhadsClass {
 
 		System.out.println(r1);
 		System.out.println(r2);
+		
+		FarhadsClass obj = new FarhadsClass();
+		
+		System.out.println(obj.reverse("Reverse this String"));
 
 	}
 
@@ -24,5 +28,19 @@ public class FarhadsClass {
 		return result;
 
 	}
-
+	
+	public String reverse(String str) {
+		
+		String result = "";
+		
+		char[] strArr = str.toCharArray();
+		
+		for (int i = strArr.length - 1; i >= 0; i--) {
+			
+			result += strArr[i];
+		}
+		
+		return result;
+	}
 }
+
