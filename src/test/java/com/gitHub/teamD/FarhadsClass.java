@@ -1,8 +1,7 @@
 package com.gitHub.teamD;
 
 public class FarhadsClass {
-	
-	
+
 	public static void main(String[] args) {
 
 		boolean r1 = SleepIn(false, false);
@@ -21,7 +20,7 @@ public class FarhadsClass {
 
 		boolean result = true;
 
-		if (! isWeekday  || isVacation ) {
+		if (!isWeekday || isVacation) {
 			result = false;
 
 		}
@@ -42,6 +41,6 @@ public class FarhadsClass {
 		}
 		
 		return result;
-	
 	}
 }
+
