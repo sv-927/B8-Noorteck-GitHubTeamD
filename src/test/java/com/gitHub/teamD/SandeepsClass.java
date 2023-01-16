@@ -52,5 +52,12 @@ public class SandeepsClass extends LubnaWasHere {
 	    }
 	    return true;
 	}
+	
+	public static void names() {
+		
+		System.out.println("John Cena");
+		System.out.println("Jackie Chan");
+		System.out.println("John Smith");
+	}
 
 }
