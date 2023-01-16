@@ -58,6 +58,11 @@ public class SandeepsClass extends LubnaWasHere {
 		System.out.println("John Cena");
 		System.out.println("Jackie Chan");
 		System.out.println("John Smith");
+		System.out.println("John Lennon");
+		System.out.println("Johnny Depp");
+		System.out.println("John F. Kennedy);
+		System.out.println("John Travolta");
+				   
 	}
 
 }
