@@ -16,10 +16,6 @@ public class SandeepsClass extends LubnaWasHere {
 
 		System.out.println(priceTotal(29.99, 40.50));
 
-		System.out.println(isPrime(17));
-
-		System.out.println(reverseWhile("Reverse String While loop"));
-
 	}
 
 	public String toUpperCase(String str) {
@@ -45,7 +41,6 @@ public class SandeepsClass extends LubnaWasHere {
 	
 	
 	}
-
 	public static boolean isPrime(int n) {
 	    if (n <= 1) {
 	        return false;
@@ -63,29 +58,12 @@ public class SandeepsClass extends LubnaWasHere {
 		System.out.println("John Cena");
 		System.out.println("Jackie Chan");
 		System.out.println("John Smith");
-		System.out.println("John Lennon");
-		System.out.println("Johnny Depp");
-		System.out.println("John F. Kennedy");
-		System.out.println("John Travolta");
-
+		
 	}
-
-	public static String reverseWhile(String str) {
-
-		String result = "";
-
-		char[] strArr = str.toCharArray();
-
-		int i = strArr.length - 1;
-
-		while (i >= 0) {
-
-			result += strArr[i];
-
-			i--;
-		}
-
-		return result;
+	
+	void merge() {
+		
+		
 	}
 
 }

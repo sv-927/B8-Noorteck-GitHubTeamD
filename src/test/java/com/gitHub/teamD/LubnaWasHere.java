@@ -11,8 +11,6 @@ public class LubnaWasHere extends FarhadsClass {
 		LubnaWasHere obj = new LubnaWasHere();
 
 		System.out.println(obj.toLowerCase(a));
-		
-		System.out.println("Sandeep was here");
 	}
 
 	public void toUpperCase() {
