@@ -58,6 +58,12 @@ public class SandeepsClass extends LubnaWasHere {
 		System.out.println("John Cena");
 		System.out.println("Jackie Chan");
 		System.out.println("John Smith");
+		
+	}
+	
+	void merge() {
+		
+		
 	}
 
 }
